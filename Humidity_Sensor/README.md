@@ -26,7 +26,7 @@ The Android application then utilizes a JavaScript API to retrieve the most rece
 - Powered by solar-rechargeable batteries for energy independence.
 - Encased in a custom 3D-printed enclosure for durability and protection.
 
-## 🔹Technologies
+## Technologies
 
 - ESP32 (C++/Arduino)
 - C++ for data analysis
