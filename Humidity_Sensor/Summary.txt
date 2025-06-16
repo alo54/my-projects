@@ -1,60 +1,62 @@
-1.
-Valor minimo 1177		Promedios
-Valor Maximo 1295		1233, 1508, 1572, 4095, 4022, 1136, 1765, 4095, 1480, 1268
-Rango 118        		Ordenados:
-Promedio 1233			1136, 1233, 1268, 1480, 1508, 1572, 1765, 4022, 4095, 4095
-                 		Rango: 2959
-2.               		//El mas bajo es de mayor humedad, el mas alto es mas seco
-Valor minimo 1418		
-Valor Maximo 1748		Valor minimo 1119		
-Rango 330        		Valor Maximo 4095
-Promedio 1508			Rango 2976  29.76
-				Formula: 100 - ((val - 1119)/29.76)
+File 1
+Min value 1177		    Averages
+Max value 1295		    1233, 1508, 1572, 4095, 4022, 1136, 1765, 4095, 1480, 1268
+Range 118        		Sorted:
+Average 1233			1136, 1233, 1268, 1480, 1508, 1572, 1765, 4022, 4095, 4095
+                 		Range: 2959
+2.               		//The lowest average is for the most humid soil, while the highest corresponds to the driest soli
+Min value 1418		
+Max value 1748		    Min value 1119		
+Range 330        		Max value 4095
+Average 1508			Range 2976  29.76
+				        Formula: 100 - ((val - 1119)/29.76)
+						//The formula ensures the lowest value is 0, and the other values are scaled 
+						from 0 - 100, where 100 is the highest.
 3.
-Valor minimo 1527
-Valor Maximo 1712
-Rango 185
-Promedio 1572
+Min value 1527
+Max value 1712
+Range 185
+Average 1572
 
 4.
-Valor minimo 4095
-Valor Maximo 4095
-Rango 0
-Promedio 4095
+Min value 4095
+Max value 4095
+Range 0
+Average 4095
 
 5.
 
-Valor minimo 3804
-Valor Maximo 4081
-Rango 277
-Promedio 4022
+Min value 3804
+Max value 4081
+Range 277
+Average 4022
 
 6.
-Valor minimo 1119
-Valor Maximo 1162
-Rango 43
-Promedio 1136
+Min value 1119
+Max value 1162
+Range 43
+Average 1136
 
 7.
-Valor minimo 1481
-Valor Maximo 2702
-Rango 1221
-Promedio 1765
+Min value 1481
+Max value 2702
+Range 1221
+Average 1765
 
 8.
-Valor minimo 4095
-Valor Maximo 4095
-Rango 0
-Promedio 4095
+Min value 4095
+Max value 4095
+Range 0
+Average 4095
 
 9.
-Valor minimo 1441
-Valor Maximo 1498
-Rango 57
-Promedio 1480
+Min value 1441
+Max value 1498
+Range 57
+Average 1480
 
 10.
-Valor minimo 1246
-Valor Maximo 1313
-Rango 67
-Promedio 1268
+Min value 1246
+Max value 1313
+Range 67
+Average 1268
