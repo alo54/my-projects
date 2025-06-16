@@ -3,9 +3,9 @@ echo "<button onclick=\"window.location.href='humidity_submission.php'\">Go to H
 echo "<button onclick=\"window.location.href='newestValue.php'\">Go to Newest Value</button>";
 
 $servername = "localhost"; // Database server address
-$username = "id22040496_greencare"; // Database username
-$password = "aguapurificadac13L#"; // Database password
-$dbname = "id22040496_sensor_db"; // Database name
+$username = "db_username"; // Database username
+$password = "db_password"; // Database password
+$dbname = "db_name"; // Database name
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
@@ -41,7 +41,5 @@ if ($humidity !== null) {
 }
 
 $conn->close(); // Correct way to close the MySQL connection
-
-// Add a button to link to 'humidity_submission.php'
 
 ?>

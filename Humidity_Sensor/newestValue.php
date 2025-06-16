@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "id22040496_greencare";
-$password = "aguapurificadac13L#";
-$dbname = "id22040496_sensor_db";
+$username = "db_username";
+$password = "db_password";
+$dbname = "db_name";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 

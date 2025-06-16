@@ -1,0 +1,60 @@
+1.
+Valor minimo 1177		Promedios
+Valor Maximo 1295		1233, 1508, 1572, 4095, 4022, 1136, 1765, 4095, 1480, 1268
+Rango 118        		Ordenados:
+Promedio 1233			1136, 1233, 1268, 1480, 1508, 1572, 1765, 4022, 4095, 4095
+                 		Rango: 2959
+2.               		//El mas bajo es de mayor humedad, el mas alto es mas seco
+Valor minimo 1418		
+Valor Maximo 1748		Valor minimo 1119		
+Rango 330        		Valor Maximo 4095
+Promedio 1508			Rango 2976  29.76
+				Formula: 100 - ((val - 1119)/29.76)
+3.
+Valor minimo 1527
+Valor Maximo 1712
+Rango 185
+Promedio 1572
+
+4.
+Valor minimo 4095
+Valor Maximo 4095
+Rango 0
+Promedio 4095
+
+5.
+
+Valor minimo 3804
+Valor Maximo 4081
+Rango 277
+Promedio 4022
+
+6.
+Valor minimo 1119
+Valor Maximo 1162
+Rango 43
+Promedio 1136
+
+7.
+Valor minimo 1481
+Valor Maximo 2702
+Rango 1221
+Promedio 1765
+
+8.
+Valor minimo 4095
+Valor Maximo 4095
+Rango 0
+Promedio 4095
+
+9.
+Valor minimo 1441
+Valor Maximo 1498
+Rango 57
+Promedio 1480
+
+10.
+Valor minimo 1246
+Valor Maximo 1313
+Rango 67
+Promedio 1268

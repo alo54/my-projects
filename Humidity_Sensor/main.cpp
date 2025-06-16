@@ -2,9 +2,9 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "motoe(6i)4522"; // WiFi SSID
-const char* password = "f3766705d443#*-#,"; // WiFi password
-String url = "https://testesp32humidity.000webhostapp.com/"; // Correct URL
+const char* ssid = "wifi_ssid"; // WiFi SSID
+const char* password = "wifi_password"; // WiFi password
+String url = "https://"; //webpage url
 
 #define soil_moisture_pin 32
 #define led_success_query 26
@@ -13,17 +13,20 @@ String url = "https://testesp32humidity.000webhostapp.com/"; // Correct URL
 
 int humidity = 54; // Example data
 
-int dataCompression(int value)
+// this function adjusts the sensor value into a percentaje
+// the constants min_value and range_scale come from the analysis made on the "Calibration.cpp" file
+int dataCompression(int value) 
 {
 
-  value = max(value, 1119);
+    double min_value = 1119, range_scale = 29.76;
 
-  int percentage = (((double ) value - 1119)/29.76);
+    value = max(value, min_value); // to avoid values out of range
 
-  percentage = 100 - percentage;
-  
+    int percentage = (((double ) value - min_value) / range_scale);
 
-  return percentage;
+    percentage = 100 - percentage;
+    
+    return percentage;
 }
 
 
@@ -47,7 +50,7 @@ void sendPostRequest() {
         HTTPClient http;
         WiFiClientSecure client; // Use secure connection for HTTPS
 
-        client.setInsecure(); // Use with caution: for testing, allows all certificates
+        client.setInsecure();
         http.begin(client, url); // Initialize HTTP connection
         http.addHeader("Content-Type", "application/x-www-form-urlencoded"); // Correct Content-Type
 

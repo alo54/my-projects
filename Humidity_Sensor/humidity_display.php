@@ -1,9 +1,9 @@
 <?php
 // Database connection details
 $servername = "localhost"; // Database server address
-$username = "id22040496_greencare"; // Database username
-$password = "aguapurificadac13L#"; // Database password
-$dbname = "id22040496_sensor_db"; // Database name
+$username = "db_username"; // Database username
+$password = "db_password"; // Database password
+$dbname = "db_name"; // Database name
 
 // Create a database connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -36,7 +36,7 @@ if ($result->num_rows > 0) {
         echo "<tr><td>" . $row["humidity"] . "</td><td>" . $row["datetime"] . "</td></tr>"; // Data rows
     }
 
-    echo "</table>"; // End of the table
+    echo "</table>";
 } else {
     echo "No data found."; // If no records are returned
 }
