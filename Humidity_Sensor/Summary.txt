@@ -1,62 +1,68 @@
 File 1
-Min value 1177		    Averages
-Max value 1295		    1233, 1508, 1572, 4095, 4022, 1136, 1765, 4095, 1480, 1268
-Range 118        		Sorted:
-Average 1233			1136, 1233, 1268, 1480, 1508, 1572, 1765, 4022, 4095, 4095
-                 		Range: 2959
-2.               		//The lowest average is for the most humid soil, while the highest corresponds to the driest soli
+Min value 1177		    
+Max value 1295
+Range 118        		
+Average 1233			
+                 		
+File 2              		
 Min value 1418		
-Max value 1748		    Min value 1119		
-Range 330        		Max value 4095
-Average 1508			Range 2976  29.76
-				        Formula: 100 - ((val - 1119)/29.76)
-						//The formula ensures the lowest value is 0, and the other values are scaled 
-						from 0 - 100, where 100 is the highest.
-3.
+Max value 1748		    		
+Range 330        		
+Average 1508			
+				        
+						
+File 3
 Min value 1527
 Max value 1712
 Range 185
 Average 1572
 
-4.
+File 4
 Min value 4095
 Max value 4095
 Range 0
 Average 4095
 
-5.
-
+File 5
 Min value 3804
 Max value 4081
 Range 277
 Average 4022
 
-6.
+File 6
 Min value 1119
 Max value 1162
 Range 43
 Average 1136
 
-7.
+File 7
 Min value 1481
 Max value 2702
 Range 1221
 Average 1765
 
-8.
+File 8
 Min value 4095
 Max value 4095
 Range 0
 Average 4095
 
-9.
+File 9
 Min value 1441
 Max value 1498
 Range 57
 Average 1480
 
-10.
+File 10
 Min value 1246
 Max value 1313
 Range 67
 Average 1268
+
+Sorted averages: 1136, 1233, 1268, 1480, 1508, 1572, 1765, 4022, 4095, 4095
+Range: 2959
+//The lowest average is for the most humid soil, while the highest corresponds to the driest soli
+Min value: 1119
+Max value: 4095
+Formula: 100 - ((val - 1119)/29.76)
+//The formula ensures the lowest value is 0, and the other values are scaled from 0 - 100, where 100 is the highest.
