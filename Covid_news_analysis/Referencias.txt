@@ -1,0 +1,10 @@
+Referencias 
+
+-Fechas de olas de covid: https://epidemiologia.salud.gob.mx/gobmx/salud/documentos/covid19/Info-04-23-Int_COVID-19.pdf
+
+-Estados más poblados en 2020 https://www.inegi.org.mx/programas/ccpv/2020/default.html#Tabulados
+(consulta el 2/5/2025)
+
+Las noticias mas buscadas/vistas por estado son dificiles de obtener porque son datos no públicos
+Preguntamos a ChatGPT los mas probables localmente
+https://datos.covid-19.conacyt.mx/#DownZCSV
