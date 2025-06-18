@@ -38,5 +38,4 @@ The corresponding number of COVID-19 cases per 100,000 people during a selected 
 
 ## Contributors
 - Alondra Valdivia Sánchez: ESP32 programming, database configuration, API design, App Inventor codeblocks.
-- A. Saravia: 3D case design and printing, App Inventor UI, data collection, and logo design.
-- J. Contreras: Webpage design, PlatformIO configuration, circuit design, and wiring.
+

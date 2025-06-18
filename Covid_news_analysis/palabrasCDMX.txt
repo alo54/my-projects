@@ -1,10 +1,10 @@
-covid-19,60
-coronavirus,25
-mexic,16
+covid-19,61
+coronavirus,27
+mexic,18
 cdmx,13
 hospital,13
 cerr,9
-contingent,7
+contingent,6
 pacient,5
 atend,5
 medic,5
@@ -46,6 +46,7 @@ grav,2
 nez,2
 zon,2
 edomex,2
+jorn,2
 orden,2
 capitalin,2
 med,2
@@ -56,6 +57,7 @@ human,2
 imss,2
 protocol,2
 personal,2
+estudi,2
 advert,2
 servici,2
 domicili,2
@@ -90,10 +92,6 @@ registr,2
 diput,2
 prueb,2
 enfermer,2
-apag,2
-fuent,2
-monument,2
-revolu,2
 ofrec,2
 combat,2
 resient,1
@@ -103,7 +101,7 @@ visit,1
 multidimensional,1
 turism,1
 padec,1
-covid-19llen,1
+llen,1
 cardiolog,1
 nutricion,1
 gea,1
@@ -114,7 +112,8 @@ demand,1
 enfatiz,1
 desiguald,1
 social,1
-americaai,1
+amer,1
+ai,1
 estacion,1
 metrobus,1
 tren,1
@@ -155,12 +154,11 @@ cre,1
 sobreviv,1
 superfici,1
 air,1
-horasestudi,1
+hor,1
 fak,1
 news,1
 super,1
 fiabl,1
-covid-19estudi,1
 confirm,1
 educ,1
 critic,1
@@ -173,7 +171,8 @@ inhum,1
 victim,1
 posit,1
 sistem,1
-penitenciariocndh,1
+penitenciari,1
+cndh,1
 enferm,1
 intent,1
 lanzar el,1
@@ -181,7 +180,8 @@ azote,1
 gimnasi,1
 peleador,1
 damnific,1
-fake-news'investig,1
+fake-news,1
+investig,1
 jaim,1
 ruiz,1
 sacristan,1
@@ -203,7 +203,8 @@ amenaz,1
 muert,1
 emple,1
 pens,1
-alturasgentlem,1
+altur,1
+gentlem,1
 mx,1
 separ,1
 residu,1
@@ -218,8 +219,7 @@ vigil,1
 viv,1
 latin,1
 peligr,1
-mexicol,1
-ignoranci,1
+ignor,1
 exig,1
 pediatr,1
 iztapalap,1
@@ -262,7 +262,6 @@ verific,1
 aut,1
 segob,1
 ceav,1
-jorn,1
 batall,1
 erik,1
 plat,1
@@ -283,11 +282,11 @@ roj,1
 entreg,1
 cubreboc,1
 tim,1
-lapseas,1
+laps,1
 perl,1
 guerr,1
 mundial,1
-z”la,1
+z,1
 extermin,1
 civil,1
 juez,1
@@ -322,13 +321,16 @@ embaraz,1
 español,1
 limit,1
 epidemi,1
-mexicod,1
 pioj,1
 rat,1
 barc,1
 avion,1
 vist,1
 dron,1
+apag,1
+fuent,1
+monument,1
+revolu,1
 renap,1
 curp,1
 ancian,1
@@ -337,10 +339,11 @@ detent,1
 enemig,1
 corazon,1
 jesus,1
-conmigoaml,1
+amlo,1
 dobl,1
 complic,1
-h1n1alejandr,1
+h1n1,1
+alejandr,1
 gou,1
 model,1
 inici,1
@@ -367,7 +370,7 @@ odalys,1
 ramirez,1
 explic,1
 proces,1
-coronaviruscampeon,1
+campeon,1
 paralimp,1
 entren,1
 trat,1
@@ -377,7 +380,7 @@ pint,1
 mural,1
 honor,1
 puebl,1
-coronaviruspanteon,1
+panteon,1
 rococ,1
 pospon,1
 cecili,1

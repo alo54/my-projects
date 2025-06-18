@@ -1,4 +1,4 @@
-coronavirus,43
+coronavirus,44
 covid-19,21
 leon,21
 cas,17
@@ -43,6 +43,7 @@ sanitari,2
 central,2
 play,2
 miram,2
+abiert,2
 esencial,2
 jos,2
 hotel,2
@@ -102,6 +103,8 @@ solidari,1
 acat,1
 paseant,1
 alert,1
+fronter,1
+nort,1
 oblig,1
 ley,1
 trabaj,1
@@ -195,7 +198,6 @@ col,1
 caball,1
 pres,1
 boc,1
-abiert,1
 batall,1
 acces,1
 lag,1

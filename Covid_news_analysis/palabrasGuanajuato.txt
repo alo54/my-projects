@@ -6,12 +6,12 @@ leon,7
 guanajuat,6
 cerr,6
 celay,6
-merc,6
 municipi,5
 aficion,5
 pandemi,5
 revel,5
 hidalg,5
+merc,5
 mor,4
 recomend,4
 martinoli,4
@@ -25,7 +25,6 @@ mx,4
 vide,4
 clas,4
 virtual,4
-contagi,4
 med,3
 accion,3
 don,3
@@ -47,11 +46,7 @@ club,3
 andre,3
 alto,3
 distanci,3
-restring,3
-entrad,3
-famili,3
-locatari,3
-president,3
+contagi,3
 cubreboc,3
 guanajuatens,2
 infect,2
@@ -72,7 +67,7 @@ parqu,2
 venc,2
 segu,2
 paol,2
-sol,2
+solis ,2
 tra,2
 guerrer,2
 warrior,2
@@ -122,6 +117,8 @@ depot,2
 faj,2
 oro,2
 salamanc,2
+edgard,2
+fuent,2
 transport,2
 regres,2
 dolor,2
@@ -181,8 +178,14 @@ registr,2
 picadur,2
 alacran,2
 jugador,2
+restring,2
+entrad,2
+famili,2
+locatari,2
+president,2
 sufr,2
 cov,2
+present,2
 emergent,2
 imss,2
 issste,2
@@ -193,6 +196,7 @@ exces,2
 afect,2
 sistem,2
 inmunolog,2
+leo,2
 leyend,2
 music,2
 prob,1
@@ -292,7 +296,6 @@ taxist,1
 sustent,1
 romer,1
 hicks,1
-present,1
 propuest,1
 econom,1
 frent,1
@@ -380,7 +383,6 @@ japami,1
 albercot,1
 celebr,1
 sony,1
-leo,1
 river,1
 artist,1
 disc,1
@@ -390,5 +392,3 @@ oper,1
 caj,1
 tesor,1
 punt,1
-edgard,1
-fuent,1
