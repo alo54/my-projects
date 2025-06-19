@@ -282,7 +282,7 @@ luc,1
 junt,1
 octogenari,1
 vendedor,1
-dulz,1
+dulc,1
 sergi,1
 bigoton,1
 guzman,1

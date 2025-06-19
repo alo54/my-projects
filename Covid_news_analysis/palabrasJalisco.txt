@@ -43,7 +43,6 @@ personal,3
 merc,3
 aplic,3
 apoy,3
-wuh,3
 chin,3
 identific,2
 sum,2
@@ -83,6 +82,7 @@ tem,2
 lun,2
 jalisciens,2
 mand,2
+wuh,2
 event,2
 masiv,2
 enfermed,2
@@ -272,6 +272,7 @@ unar,1
 clas,1
 secretari,1
 innov,1
+wuhab,1
 pendient,1
 credencial,1
 ine,1
